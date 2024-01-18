@@ -1,0 +1,64 @@
+/* CSS Document */
+body {
+	font-family:Arial, 'Helvetica', sans-serif;
+	color:#000;
+	font-size:15px;
+}
+a {
+color:#2276BB;
+text-decoration:none;
+}
+* {
+	margin:0px;
+	padding:0px
+}
+#member{
+width:500px;
+font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+overflow:hidden;
+padding:6px 10px 15px 10px;
+}
+#member li{
+border:0; margin:0; padding:0; list-style:none;
+}
+#member li{
+height:60px;
+padding:5px;
+padding-left:30px;
+list-style:none;
+}
+#member a{
+color:#0a43e6;
+text-decoration:none;
+}
+#member img{
+float:left;
+margin-right:14px;
+padding:4px;
+}
+#member .user-title{
+display:block;
+font-weight:bold;
+margin-bottom:4px;
+font-size:13px;
+color:#0a43e6;
+}
+#member .add{
+float:left;
+color:#666666;
+}
+.greenButton{
+width:auto;
+margin:10px 0 0 2px;
+padding:3px 4px 3px 4px;
+color:white;
+background-color:#0a43e6;
+outline:none;
+border:1px solid #006600;
+font-weight:normal;
+}
+
+.greenButton:active{
+background-color:#006600;
+padding:4px 3px 2px 5px;
+}

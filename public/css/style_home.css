@@ -1,0 +1,127 @@
+body {
+	padding:0;
+	margin:0;	
+	background: -webkit-linear-gradient(#ffffff, #bec8ef);
+    background: -moz-linear-gradient(#ffffff, #bec8ef);
+    background: -ms-linear-gradient(#ffffff, #bec8ef);
+    background: -o-linear-gradient(#ffffff, #bec8ef);
+    background: linear-gradient(#ffffff, #bec8ef);
+	height: 100%;
+}
+#luar{
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	background: #ffffff;
+}
+#header_home{
+	background: #0a43e6;
+	height: 8%;
+	width: 100%;
+	padding: 0;
+	z-index: 999;
+	position: fixed;
+}
+#kiri {
+	float: left;
+	width: 50%;
+	margin-left: 1%;
+}
+.chat{
+	padding: 8px 50px;
+	font-family:Facebook Letter Faces;
+	font-size: 25px;
+	color: #fff;
+}
+#kanan{
+	float: right;
+	width: 46%;
+}
+#menu_atas {
+	margin-top: 1%;
+	float: left;
+	width: 34%;
+}
+#menu_atas a{
+	line-height: 35px;
+	padding: 10px;
+	font-family: Dancing Script OT;
+	font-size: 23px;
+	text-decoration: none;
+	color: #fff;
+}
+#menu_atas a:hover{
+	border-bottom: 2px solid #fff;
+}
+#menu_atas_k {
+	margin-top: 1%;
+	height: 80%;
+	float: right;
+	margin-right:26%;
+	width: 39%;
+}
+#gambar_menu{
+	float: left;
+	width: 20%;
+}
+.status {
+	font-family: Dancing Script OT;
+	font-size: 23px;
+	line-height: 34px;
+	text-decoration: none;
+	background: #0a43e6;
+	border: 1px solid #0a43e6;
+	color: #fff;
+	cursor: pointer;
+}
+#inti {
+	width: 100%;
+}
+#inti_kiri {
+	float: left;
+	margin-top: 5%;
+	margin-left:5%;
+	width: 15%;
+}
+.gambar_menu{
+	float: left;
+	width: 20%;
+}
+#nama {
+	margin-top: 5%;
+	margin-left: 52%;
+	font-size: 22px;
+	font-family: Arial Rounded MT Bold;
+}
+.nama{
+	margin-left: 34%;
+	font-size: 16px;
+	font-family: Arial Rounded MT Bold;
+	text-decoration: none;
+	color: #2e2e2e;
+} 
+.nama a:hover{
+	color: #d30925;
+}
+#menu {
+	margin-right: 10%;
+	margin-left: 2%;
+	margin-top: 7%;
+	width: 20%;
+}
+#menu a{
+	margin-left: 0px;
+	text-decoration: none;
+	color: #0a55ee;
+	font-size: 18px;
+}
+#menu a:hover{
+	color: #ec0a1f;
+}
+#inti_kanan {
+	float: right;
+	margin-top: 5%;
+	margin-right:5%;
+	width: 70%;
+	border: 1px solid #fff;
+}
